@@ -1,6 +1,6 @@
 [ 
     { 
-        "author" : "Elvonil", 
+        "author" : "Elvondil", 
         "name" : "Sasuke pour Wikette", 
         "keyWords" : "Sasuke", 
         "version" : "1.0.3", 
